@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="445e1e8d-02fe-40de-9125-166f8a737eb4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-    </list>
+    <list default="true" id="445e1e8d-02fe-40de-9125-166f8a737eb4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +9,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b764e346-185f-4ff7-9fec-22114d4634c9" />
+        <option name="url" value="https://github.com/HelLuv/real-time-chat.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="1yagZNVcvZMQ8C2G5QU5Xrt5h4y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,6 +86,7 @@
       <workItem from="1632495171092" duration="10475000" />
       <workItem from="1632509321903" duration="557000" />
       <workItem from="1632509885501" duration="5000" />
+      <workItem from="1632510085159" duration="315000" />
     </task>
     <servers />
   </component>
